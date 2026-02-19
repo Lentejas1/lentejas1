@@ -1,9 +1,11 @@
 :round_pushpin: Barcelona, ES
 
-I am currently working on my MSc thesis in collaboration with IFAE's ATLAS group.
+I am currently working on my PhD thesis at CITCEA-UPC.
 
 ### Major experience:
-- Six-month internship as a Data Scientist at Banc Sabadell-Zurich Insurance.
+- MSc thesis in collaboration with IFAE's ATLAS group (CERN)
+- BSc thesis in collaboration with IFAE's neutrino group (T2K)
+- Six-month internship as a Data Scientist at Banc Sabadell-Zurich Insurance
 
  ### Work:
 - [Numerical methods' tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)
@@ -11,6 +13,7 @@ I am currently working on my MSc thesis in collaboration with IFAE's ATLAS group
   - Made in Python with [Urllib](https://github.com/python/cpython/tree/3.11/Lib/urllib/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 
 ### Studies:
+- PhD in Applied Maths (2026-currently) at Universitat Politècnica de Catalunya
 - MSc in High-Energy Physics (2024/25) at Universitat Autònoma de Barcelona
 - [Physics (2020-2024) at Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1216102930384)
 
